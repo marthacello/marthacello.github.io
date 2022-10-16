@@ -5,7 +5,7 @@ permalink: /librarycollection/
 ---
 
 ### The Martha Gerschefski Cello Music and Personal Papers Collection
-In Summer 2022, my music library and personal papers, including annotated copies of major and lesser-known repertoire, chamber music (including many works for cello choir), scrapbooks, notes from my own lessons, and correspondence with my teachers and other musicians of note, were donated to the Special Collections and University Archives at UNC Greensboro.  
+In Summer 2022, my music library and personal papers, including annotated copies of major and lesser-known repertoire, chamber music (including many works for cello choir), scrapbooks, notes from my own lessons, and correspondence with my teachers and other musicians of note, were donated to the [Special Collections and University Archives](https://library.uncg.edu/info/depts/scua/collections/cello/) at UNC Greensboro.  
 
 See below for more information, including a nice biographical summary by Stacey Krim, who manages the collection:
 
