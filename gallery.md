@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gallery"
+permalink: /gallery/
+---
+
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/WJZkcT3SeGwsU78e8"
