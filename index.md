@@ -15,11 +15,11 @@ Martha Gerschefski is a renowned cellist and educator. Formerly faculty at Georg
 * Founder, Georgia State University’s University Cello Choir
 
 ### Cello Performance
+* Soloist in the USA, Europe, and Central America
 * Juilliard Performance Diploma with Luigi Silva and Isidore Cohen
 * Student of Andre Navarra, Edward Mattos, and Nadia Boulanger
 * Diploma of Merit, Accademia Musicale, Siena, Italy
 * State Department Cultural Presentations Abroad recitalist throughout Europe
-* Soloist in the USA, Europe, and Central America
 * First woman selected by Leopold Stokowski for the American Symphony Orchestra (Assistant Principal)
 * Principal cellist: Atlanta Chamber Orchestra and Atlanta Ballet
 * Winner of Koussevitzky Prize and Martha Baird Rockefeller grant for study abroad
