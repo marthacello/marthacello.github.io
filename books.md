@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "My Books"
+permalink: /books/
 ---
 
 ## About My Books
