@@ -12,4 +12,4 @@ They start with instruction on learning the basics of a certain technique and co
 
 Taken as a whole, the books contain a distillation of what I have learned about teaching the cello from my own great mentors and more than 50 years as a performer and teacher.
 
-All my books are now published by [Edizioni Migliori](https://cellobooks.net), which is run by my former student [Ahanu Banerjee](https://ahanu.info). You can purchase them directly from their website; international shipping is available.
+All my books are now published by [Edizioni Migliori](https://cellobooks.net), which is run by my former student [Ahanu Banerjee](https://ahanu.info). You can purchase them directly from the publisher's website; international shipping is available.
