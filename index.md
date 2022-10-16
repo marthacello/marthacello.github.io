@@ -3,9 +3,10 @@ layout: default
 title: "About Me"
 ---
 
-![Photo of Martha](https://lh3.googleusercontent.com/BDMYbquBXRLWDpE4LSjiV7-KfSk_RijbuawRNHR3e7t4AAH9X35GFgoMOzzv2uq_z_jya6Aawl3B9tabO-nVnm7OFNdQNp2veF2TS_aKDx66HJcLyxJps1gBKz59NUhwf3PHVikj=w240)
-
 ## About Martha
+
+<img style="float: left;" alt="Photo of Martha" src="[whatever.jpg](https://lh3.googleusercontent.com/BDMYbquBXRLWDpE4LSjiV7-KfSk_RijbuawRNHR3e7t4AAH9X35GFgoMOzzv2uq_z_jya6Aawl3B9tabO-nVnm7OFNdQNp2veF2TS_aKDx66HJcLyxJps1gBKz59NUhwf3PHVikj=w240)">
+
 Martha Gerschefski is a renowned cellist and educator. Formerly faculty at Georgia State University and now retired, she teaches privately out of her studio in Inman, South Carolina. Her multitude of [books](/books) serve as instruction manuals and teaching aids for technique on the cello, and her scholarly edition of J.S. Bach's *Six Suites for Solo Cello*, edited in collaboration with Barbara Mueser, represents a novel approach to historically informed performance on the modern instrument.
 
 ### Teaching
