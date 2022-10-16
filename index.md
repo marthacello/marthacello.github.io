@@ -4,7 +4,7 @@ title: "About Me"
 ---
 
 ## About Martha
-Martha Gerschefski is a renowned cellist and educator. Formerly faculty at Georgia State University and now retired, she teaches privately out of her studio in Inman, South Carolina. Her multitude of books serve as instruction manuals and teaching aids for technique on the cello, and her scholarly edition of J.S. Bach's *Six Suites for Solo Cello*, edited in collaboration with Barbara Mueser, represents a novel approach to historically informed performance on the modern instrument.
+Martha Gerschefski is a renowned cellist and educator. Formerly faculty at Georgia State University and now retired, she teaches privately out of her studio in Inman, South Carolina. Her multitude of [books](/books) serve as instruction manuals and teaching aids for technique on the cello, and her scholarly edition of J.S. Bach's *Six Suites for Solo Cello*, edited in collaboration with Barbara Mueser, represents a novel approach to historically informed performance on the modern instrument.
 
 ### Teaching
 * Presenter of classes and workshops in the U.S., Canada, Europe, Central and South America
