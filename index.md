@@ -17,7 +17,7 @@ Martha Gerschefski is a renowned cellist and educator. Formerly faculty at Georg
 * Outstanding Teaching Award, Georgia State University College of Arts and Sciences
 * Founder, Georgia Academy of Music
 * Founder, Westminster Schools String Quartet Program 
-* Founder, Georgia State University’s University Cello Choir
+* Founder, Georgia State University Cello Choir
 
 ### Cello Performance
 * Soloist in the USA, Europe, and Central America
